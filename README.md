@@ -1,4 +1,4 @@
-# Char
+# Chat
 Es un chat, el cual funciona con login, de datos extraídos de una base de datos postgreSQL
 
 
